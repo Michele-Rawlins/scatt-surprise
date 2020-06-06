@@ -1,0 +1,213 @@
+{
+  "scats" : {
+    "scat1": {
+      "color": "green",
+      "shape": "italy",
+      "size": "small",
+      "temperature": 99,
+      "viscosity": "liquid",
+      "wasFulfilling": true,
+      "location": "NSS parking lot",
+      "notes": "almost stepped on it",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat2": {
+      "color": "black",
+      "shape": "sphere",
+      "size": "large",
+      "temperature": 70,
+      "viscosity": "firm",
+      "wasFulfilling": true,
+      "location": "porta-potty",
+      "notes": "made me turn around and leave immediately",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat3": {
+      "color": "orange",
+      "shape": "log",
+      "size": "medium",
+      "temperature": 10,
+      "viscosity": "solid",
+      "wasFulfilling": true,
+      "location": "at the park",
+      "notes": "was a loud kind of smelly",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat4": {
+      "color": "pink",
+      "shape": "texas",
+      "size": "small",
+      "temperature": 72,
+      "viscosity": "liquid",
+      "wasFulfilling": true,
+      "location": "Opryland Hotel",
+      "notes": "favorite kind",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat5": {
+      "color": "turquoise",
+      "shape": "florida",
+      "size": "huge",
+      "temperature": 85.5,
+      "viscosity": "solid",
+      "wasFulfilling": true,
+      "location": "Trump's Backyard",
+      "notes": "solid as a snowball in the freezer",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat6": {
+      "color": "dark brown",
+      "shape": "hawaii",
+      "size": "small",
+      "temperature": 78,
+      "viscosity": "solid",
+      "wasFulfilling": true,
+      "location": "public beach",
+      "notes": "police are chasing me now",
+      "uid": "p00pin"
+    },
+    "scat7": {
+      "color": "mustard",
+      "shape": "swirl",
+      "size": "large",
+      "temperature": 115,
+      "viscosity": "solid",
+      "wasFulfilling": false,
+      "location": "outside Zoes house",
+      "notes": "had berries in it",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat8": {
+      "color": "red",
+      "shape": "rabbit pebbles",
+      "size": "small",
+      "temperature": 91,
+      "viscosity": "hard",
+      "wasFulfilling": false,
+      "location": "backyard",
+      "notes": "dog tried to eat",
+      "uid": "p00pin"
+    },
+    "scat9": {
+      "color": "Red",
+      "shape": "log",
+      "size": "medium",
+      "temperature": 99,
+      "viscosity": "hard",
+      "wasFulfilling": true,
+      "location": "backyard",
+      "notes": "cleaned it up",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat10": {
+      "color": "brown",
+      "shape": "hotdog",
+      "size": "medium",
+      "temperature": 5,
+      "viscosity": "solid",
+      "wasFulfilling": false,
+      "location": "North Pole",
+      "notes": "Had corn",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat11": {
+      "color": "brown",
+      "shape": "round",
+      "size": "small",
+      "temperature": 95,
+      "viscosity": "solid",
+      "wasFulfilling": true,
+      "location": "grass",
+      "notes": "smelly",
+      "uid": "p00pin"
+    },
+    "scat12": {
+      "color": "brown",
+      "shape": "spiral",
+      "size": "medium",
+      "temperature": 100,
+      "viscosity": "solid",
+      "wasFulfilling": true,
+      "location": "My toilet",
+      "notes": "oddly doesn't smell at all",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat13": {
+      "color": "black",
+      "shape": "J",
+      "size": "large",
+      "temperature": 99,
+      "viscosity": "solid",
+      "wasFulfilling": true,
+      "location": "Home",
+      "notes": "really hurt",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat14": {
+      "color": "orange",
+      "shape": "mom's spaghetti",
+      "size": "large",
+      "temperature": 32,
+      "viscosity": "thick",
+      "wasFulfilling": true,
+      "location": "dog bed",
+      "notes": "WOW",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat15" : {
+      "color": "orange",
+      "shape": "illinois",
+      "size": "medium",
+      "temperature": 80,
+      "viscosity": "soft",
+      "wasFulfilling": true,
+      "location": "shelby bottoms greenway",
+      "notes": "wasn't me",
+      "uid": "12345"
+    },
+    "scat16": {
+      "color": "yellow-y brown",
+      "shape": "swirly mountain",
+      "size": "medium-ish",
+      "temperature": 99,
+      "viscosity": "soft serve",
+      "wasFulfilling": true,
+      "location": "driveway",
+      "notes": "no more spicy Thai food for you...",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat17": {
+      "color": "black",
+      "shape": "oval",
+      "size": "medium",
+      "temperature": 85,
+      "viscosity": "solid",
+      "wasFulfilling": true,
+      "location": "middle of the lawn",
+      "notes": "That groundhog again!",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    },
+    "scat18": {
+      "color": "chartreuse",
+      "shape": "Newfoundland",
+      "size": "medium",
+      "temperature": 65,
+      "viscosity": "tar-like",
+      "wasFulfilling": false,
+      "location": "Gallatin Pike and Trinity Lane",
+      "notes": "Broke my windshield",
+      "uid": "p00pin"
+    },
+    "scat19": {
+      "color": "brown",
+      "shape": "snake",
+      "size": "small",
+      "temperature": 97,
+      "viscosity": "solid",
+      "wasFulfilling": true,
+      "location": "Costco",
+      "notes": "my dog found it",
+      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+    }
+  }
+}

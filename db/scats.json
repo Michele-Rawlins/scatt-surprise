@@ -9,7 +9,7 @@
       "wasFulfilling": true,
       "location": "NSS parking lot",
       "notes": "almost stepped on it",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat2": {
       "color": "black",
@@ -20,7 +20,7 @@
       "wasFulfilling": true,
       "location": "porta-potty",
       "notes": "made me turn around and leave immediately",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat3": {
       "color": "orange",
@@ -31,7 +31,7 @@
       "wasFulfilling": true,
       "location": "at the park",
       "notes": "was a loud kind of smelly",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat4": {
       "color": "pink",
@@ -42,7 +42,7 @@
       "wasFulfilling": true,
       "location": "Opryland Hotel",
       "notes": "favorite kind",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat5": {
       "color": "turquoise",
@@ -53,10 +53,10 @@
       "wasFulfilling": true,
       "location": "Trump's Backyard",
       "notes": "solid as a snowball in the freezer",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat6": {
-      "color": "dark brown",
+      "color": "pink",
       "shape": "hawaii",
       "size": "small",
       "temperature": 78,
@@ -75,7 +75,7 @@
       "wasFulfilling": false,
       "location": "outside Zoes house",
       "notes": "had berries in it",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat8": {
       "color": "red",
@@ -89,7 +89,7 @@
       "uid": "p00pin"
     },
     "scat9": {
-      "color": "Red",
+      "color": "red",
       "shape": "log",
       "size": "medium",
       "temperature": 99,
@@ -97,7 +97,7 @@
       "wasFulfilling": true,
       "location": "backyard",
       "notes": "cleaned it up",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat10": {
       "color": "brown",
@@ -108,7 +108,7 @@
       "wasFulfilling": false,
       "location": "North Pole",
       "notes": "Had corn",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat11": {
       "color": "brown",
@@ -130,7 +130,7 @@
       "wasFulfilling": true,
       "location": "My toilet",
       "notes": "oddly doesn't smell at all",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat13": {
       "color": "black",
@@ -141,7 +141,7 @@
       "wasFulfilling": true,
       "location": "Home",
       "notes": "really hurt",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat14": {
       "color": "orange",
@@ -152,7 +152,7 @@
       "wasFulfilling": true,
       "location": "dog bed",
       "notes": "WOW",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat15" : {
       "color": "orange",
@@ -166,7 +166,7 @@
       "uid": "12345"
     },
     "scat16": {
-      "color": "yellow-y brown",
+      "color": "burlywood",
       "shape": "swirly mountain",
       "size": "medium-ish",
       "temperature": 99,
@@ -174,7 +174,7 @@
       "wasFulfilling": true,
       "location": "driveway",
       "notes": "no more spicy Thai food for you...",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat17": {
       "color": "black",
@@ -185,7 +185,7 @@
       "wasFulfilling": true,
       "location": "middle of the lawn",
       "notes": "That groundhog again!",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     },
     "scat18": {
       "color": "chartreuse",
@@ -207,7 +207,8 @@
       "wasFulfilling": true,
       "location": "Costco",
       "notes": "my dog found it",
-      "uid": "JuFkoAbbDPeJuNgtb4ya1a9ueg43"
+      "uid": "uGWVQhQ0UKXIQ2DaSrE5FaSNlLu1"
     }
   }
 }
+
